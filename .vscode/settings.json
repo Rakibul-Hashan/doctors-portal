@@ -1,0 +1,23 @@
+{
+  "compile-hero.disable-compile-files-on-did-save-code": true,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#8758e0",
+    "activityBar.background": "#8758e0",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#e69e79",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#8758e0",
+    "statusBar.background": "#682dd8",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#8758e0",
+    "statusBarItem.remoteBackground": "#682dd8",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#682dd8",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#682dd899",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#682dd8"
+}
